@@ -1,0 +1,102 @@
+*{
+  padding:0px;
+  margin: 0px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.first-section{
+  background-color: rgb(25, 25, 61);
+  color: white;
+ 
+}
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+.linkedgroup{
+  margin-right: 100px;
+
+}
+.HeaderLogo{
+  margin-left: 100px;
+}
+
+.header2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 100px;
+
+}
+.left1{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 390px;
+  margin-left: 100px;
+  gap: 5px;
+  ;
+}
+.right1{
+  background-color: aquamarine;
+  margin-right: 100px;
+  text-align: right;
+  padding: 50px 50px;
+}
+.signup{
+  width: 100px;
+  background-color: black;
+  border-style: none;
+  color: white;
+  background-color: rgb(80, 109, 130);
+  padding: 5px 0px;
+  border-radius: 5px;
+}
+.second-section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+.sri{
+  margin-bottom: 40px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.buttons{
+  display: flex;
+  gap: 50px;
+  margin-bottom: 10px;
+}
+.button1{
+  padding: 60px;
+  background-color: white;
+  border-style: solid;
+  border-color: rgb(80, 109, 130);
+  border-radius: 5px;
+  border-width: 3px;
+}
+.information{
+ display: flex;
+ gap: 50px;
+ text-align: center;
+}
+.text{
+  width: 120px;
+}
+.third-section{
+  display: flex;
+  flex-direction: column;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+}
+}
+.quote{
+  display: flex;
+  text-align: left;
+  ;
+}
