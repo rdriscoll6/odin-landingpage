@@ -4,7 +4,7 @@
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .first-section{
-  background-color: rgb(25, 25, 61);
+  background-color: rgb(0, 0, 0);
   color: white;
  
 }
@@ -13,6 +13,8 @@
   align-items: center;
   justify-content: space-between;
   margin-bottom: 100px;
+  background-color: rgb(125, 103, 169);
+  padding: 20px
 }
 .linkedgroup{
   margin-right: 100px;
@@ -38,7 +40,7 @@
   ;
 }
 .right1{
-  background-color: aquamarine;
+  background-color: rgb(57, 109, 158);
   margin-right: 100px;
   text-align: right;
   padding: 50px 50px;
@@ -48,7 +50,7 @@
   background-color: black;
   border-style: none;
   color: white;
-  background-color: rgb(80, 109, 130);
+  background-color: rgb(103, 169, 142);
   padding: 5px 0px;
   border-radius: 5px;
 }
@@ -86,17 +88,72 @@
   width: 120px;
 }
 .third-section{
+  margin-top: 50px;
   display: flex;
+  background-color: rgb(216, 216, 216);
   flex-direction: column;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  display: flex;
-  align-items: center;
-  margin-bottom: 100px;
-}
+
+  padding: 100px
 }
 .quote{
   display: flex;
   text-align: left;
-  ;
+  font-size: 30px;
+  font-style: italic;
+  color: rgb(75, 75, 75);
+
+
+}
+.author{
+  display: flex;
+  text-align: left;
+  align-items: flex-end;
+  justify-content: right;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+.fourth-section{
+  display: flex;
+  padding: 100px;
+  justify-content: center;
+}
+.blue-section{
+  display: flex;
+  background-color: rgb(103, 169, 142);
+  padding: 40px 100px ;
+  align-items: center;
+  color: white;
+  border-radius: 5px;
+
+}
+.left2{
+  display: flex;
+  flex-direction: column;
+}
+.signup2{
+  padding-left: 100px;
+}
+.signup3{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 100px;
+  border-radius: 5px;
+  border-style: solid;
+  color: white;
+  border-color: white;
+  background-color: rgb(103, 169, 142);
+  border-width: 2px;
+
+}
+.h13{
+  font-weight: bold;
+  font-size: 20px;
+}
+.fifth-section{
+  background-color: black;
+  color: white;
+  text-align: center;
+  PADDING: 30PX
 }
