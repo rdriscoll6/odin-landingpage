@@ -17,8 +17,14 @@
   padding: 20px
 }
 .linkedgroup{
+  display: flex;
   margin-right: 100px;
+  gap: 30px;
+  font-size: 20px;
 
+}
+.linkitems1:hover{
+  margin-bottom: 10px;
 }
 .HeaderLogo{
   margin-left: 100px;
